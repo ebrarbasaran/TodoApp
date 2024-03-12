@@ -1,5 +1,5 @@
 # TodoApp
-This project just for an practice example of React Native.
+This project just for a practice example of React Native.
 It is intended learning to use custom component, useEffect and useState.
 
 <p float="left">
